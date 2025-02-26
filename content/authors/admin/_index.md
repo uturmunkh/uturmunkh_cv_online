@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:u.turmunkh@ieseg.fr'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/uyangaturmunkh
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
