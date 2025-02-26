@@ -5,7 +5,6 @@ authors:
 - Martijn J Van den Assem
 - Dennie Van Dolder
 date: '2019-01-01'
-publishDate: '2025-02-26T20:35:38.442104Z'
 publication_types:
 - article-journal
 publication: '*Management Science*'
